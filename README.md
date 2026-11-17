@@ -115,8 +115,7 @@ Key objectives:
 - Top customers were identified by lifetime profit/contribution; their **purchase preferences** (categories/subcategories) were profiled (Dashboard 3).  
 **Insight:** High-value customers heavily favor technology and office supplies — they are ideal targets for retention programs and upsell campaigns.
 
-You can interact with the live visualization [HERE](https://app.powerbi.com/groups/me/reports/5c024a06-37e4-4abf-a81a-92873eaabfdf/94d842a91ae963650143?experience=power-bi)
-
+Full report: [Global Superstore Report (PDF)](CAPSTONE%20PROJECT%201%28GLOBALSUPER%20STORE%29%202.pdf) · Power BI file: [Global Superstore Analysis (.pbix)](CAPSTONE%20PROJECT%201%28GLOBALSUPER%20STORE%29%202.pbix)
 
  ## 🧭 Conclusion
  
